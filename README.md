@@ -10,7 +10,7 @@ Tired of rolling physical dice? Is the act of reaching across the table, shaking
 ```
 git clone https://github.com/mkhira2/dnd-dice-roller.git
 cd dnd-dice-roller
-python3 dnd-dice-roller.git
+python3 dnd-dice-roller.py
 
 Roll out
 ```
